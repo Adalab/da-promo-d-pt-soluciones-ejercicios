@@ -1,1 +1,2 @@
-# da-promo-d-pt-soluciones-ejercicios
+# SOLUCIONES EJERCICIOS
+## Aquí subiré las soluciones del pair programming
