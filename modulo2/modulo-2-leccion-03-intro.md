@@ -1,3 +1,13 @@
+
+### 1. Diseño de una base de datos
+
+Aquí os dejamos una posible solución del diseño de la bases de datos. 
+
+![.DER Préstamos de libros](./libros_diagrama.png)
+
+
+### 2. Normalización de tablas (BONUS)
+
 - Tabla original
 
 | id_alumna | nombre | dirección | id_asignatura | asignatura | nota |
